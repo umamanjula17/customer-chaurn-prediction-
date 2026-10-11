@@ -5,6 +5,7 @@
 **Dataset:** IBM Telco Customer Churn (7043 rows, 21 columns)
 
 **Model:** Random Forest Classifier
+
 **Accuracy:** XX%
 
 
