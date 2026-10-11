@@ -6,7 +6,7 @@
 
 **Model:** Random Forest Classifier
 
-**Accuracy:** XX%
+**Accuracy:**0.79
 
 
 **Key insight:** Month-to-month contract customers churn much more than 1-year or 2-year customers.
